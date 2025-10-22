@@ -30,11 +30,17 @@ Seats 클래스를 이용한 좌석 현황 출력 및 중복 예매 방지 로�
 💡 (3) 추가하고 싶은 기능 및 기술
 구분	추가 아이디어	기술 포인트
 🔐 관리자 로그인 강화	비밀번호 암호화 및 인증 시스템	java.security, 해시 기반 인증
+
 💾 데이터베이스 연동	파일 대신 DB(MySQL, SQLite)로 관리	JDBC, DAO 패턴
+
 🖥️ GUI 버전 업그레이드	콘솔 대신 GUI로 직관적 예매 가능	JavaFX 또는 Swing
+
 📱 웹 전환 프로젝트	GitHub Pages or Spring Boot 기반 웹 예매 서비스	Spring Boot, JSP/Thymeleaf
+
 🪑 좌석 예매 시각화	그래픽 좌석표로 선택 가능	JavaFX GridPane, Canvas
+
 📈 통계 기능 추가	예매율, 인기 영화 등 시각화	Chart 라이브러리, 데이터 분석 로직
+
 📝 (4) 프로젝트 후 계획 (후기)
 
 이번 프로젝트를 통해 단순한 콘솔 프로그램이 아니라
